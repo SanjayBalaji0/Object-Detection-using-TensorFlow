@@ -288,5 +288,3 @@ This project successfully implemented an automated wheat head detection system u
 - Good balance between accuracy and computational efficiency
 
 **Applications:** Precision agriculture, yield estimation, crop monitoring, and agricultural research.
-
-**Future Work:** Implement more sophisticated architectures (YOLO), expand dataset diversity, and optimize for real-time processing.
